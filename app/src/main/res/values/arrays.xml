@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="exercises">
+        <item>Rest|30|fan_relax.gif</item> <!--Exercise 0 -->
+        <item>Flor pushups|x30|flor_pushups.gif</item> <!--Exercise 1 -->
+        <item>Bicycle|x20|bicycle.gif</item> <!--Exercise 2 -->
+        <item>Dog|40|dog.gif</item> <!--Exercise 3 -->
+        <item>Duck|x40|duck.gif</item> <!--Exercise 4 -->
+        <item>Jump|30|jump.gif</item> <!--Exercise 5 -->
+        <item>Jumping|x40|jumping.gif</item> <!--Exercise 6 -->
+        <item>Scissors|45|scissors.gif</item> <!--Exercise 7 -->
+        <item>Flor steps|x45|flor_steps.gif</item> <!--Exercise 8 -->
+        <item>Flor arms|x50|flor_arms.gif</item> <!--Exercise 9 -->
+        <item>Flor jump|50|flor_jump.gif</item> <!--Exercise 10 -->
+    </string-array>
+
+    <string-array name="day_exercises">
+        <item>1,0,2,0,4,0,5,0,6</item> <!--Day 0  -->
+        <item>4,0,5,0,6,0,2,0,4,0,7</item> <!--Day 1 -->
+        <item>5,0,6,0,2,0,10,0,9,0,7</item> <!--Day 2 -->
+        <item>6,0,2,0,10,0,8,0,9,0,2,0,10</item> <!--Day 3 -->
+        <item>10,0,8,0,9,0,4,0,5,4,0,10,0,1</item> <!--Day 4 -->
+        <item>5,0,6,0,2,0,10,0,8,0,9,0.7,0,1</item> <!--Day 5 -->
+        <item>5,0,6,0,2,0,10,0,8,0,9,0.7,0,1</item> <!--Day 6 -->
+        <item>7,0,9,0,4,0,2,0,10,0,8,0,9,0,5</item> <!--Day 7 -->
+        <item>2,0,10,0,8,0,9,0,2,0,10,0,5</item> <!--Day 8 -->
+        <item>9,0,4,0,10,0,1,0,2,0,4,0,6,0,2</item> <!--Day 9 -->
+    </string-array>
+
+
+</resources>
